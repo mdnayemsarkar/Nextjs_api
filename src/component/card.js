@@ -18,7 +18,7 @@ const Card = () => {
 
   return (
     <>
-      <div className="flex justify-center items-center min-w-96">
+      {/* <div className="flex justify-center items-center min-w-96">
         <div className="px-24 py-12 will-change-contents shadow-2xl border bg-red-300 shadow-blue-50 rounded-xl mt-11">
           <div className="mb-14 flex gap-3">
             <div className="bg-[#EA2027] w-2 "> </div>
@@ -50,7 +50,7 @@ const Card = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };
